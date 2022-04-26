@@ -2,6 +2,9 @@
 
 All notable changes of the PHPUnit 8.5 release series are documented in this file using the [Keep a CHANGELOG](https://keepachangelog.com/) principles.
 
+## [8.5.27] - 2022-04-01 - 2022-04-26 - removed #StandWithUkraine
+
+
 ## [8.5.26] - 2022-04-01
 
 ### Fixed
