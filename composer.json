@@ -1,24 +1,21 @@
 {
-    "name": "phpunit/phpunit",
-    "description": "The PHP Unit Testing framework.",
+    "name": "local/phpunit",
+    "description": "The PHP Unit Testing framework. (Local forked version)",
     "type": "library",
     "keywords": [
-        "phpunit",
+        "phpunit forked",
         "xunit",
         "testing"
     ],
-    "homepage": "https://phpunit.de/",
+    "homepage": "https://vasiliy.local",
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Sebastian Bergmann",
-            "email": "sebastian@phpunit.de",
+            "name": "Vasiliy",
+            "email": "vasiliy@local",
             "role": "lead"
         }
     ],
-    "support": {
-        "issues": "https://github.com/sebastianbergmann/phpunit/issues"
-    },
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
