@@ -1,5 +1,5 @@
 {
-    "name": "local/phpunit",
+    "name": "danivaske/local_phpunit",
     "description": "The PHP Unit Testing framework. (Local forked version)",
     "type": "library",
     "keywords": [
